@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/assignment-scala02-2/src/main/scala/edu/knoldus/Response.scala:4:38: identifier expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  def showNotification(notification: ): String = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/assignment-scala02-2/src/main/scala/edu/knoldus/Response.scala:15:1: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
