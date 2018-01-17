@@ -3,6 +3,7 @@ package edu.knoldus
 class Payment {
 
   def calculateAmount(amount: Double, modeOfPayment:String): Double ={
+
     modeOfPayment match {
       case "Paytm" => amount + 0.2*amount
       case "Freecharge" => amount + 0.2*amount
@@ -11,6 +12,7 @@ class Payment {
       case "Cash" => amount
       case _ => 0
     }
+
   }
 
 }

@@ -1,7 +1,5 @@
 package edu.knoldus
 
-abstract class Person {
-
-}
+abstract class Person {}
 
 
